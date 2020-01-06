@@ -1,3 +1,2 @@
-a <- "hello new geoscripting course!"
-a
+"this is a change"
 
